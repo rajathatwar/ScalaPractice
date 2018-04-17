@@ -1,0 +1,12 @@
+{"ngram":["f2","f3","f4"],"estfrequency":51.0}
+{"ngram":["f1","f2","f3"],"estfrequency":18.0}
+{"ngram":["ay","good","lord"],"estfrequency":12.0}
+{"ngram":["rosencrantz","and","guildenstern"],"estfrequency":10.0}
+{"ngram":["thou","speak","st"],"estfrequency":10.0}
+{"ngram":["enter","lady","macbeth"],"estfrequency":8.0}
+{"ngram":["give","thy","hand"],"estfrequency":8.0}
+{"ngram":["ha","ha","ha"],"estfrequency":8.0}
+{"ngram":["king","and","queen"],"estfrequency":8.0}
+{"ngram":["good","night","good"],"estfrequency":7.0}
+Time taken: 16.898 seconds, Fetched: 10 row(s)
+
